@@ -1,0 +1,4 @@
+#File locations
+#Sat May 27 12:30:57 EDT 2017
+ExecutableDirectory=C\:/Users/Scott/Desktop/Spring 2017/CS140/project/
+SourceDirectory=C\:/Users/Scott/Desktop/Spring 2017/CS140/project/
